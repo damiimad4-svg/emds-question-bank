@@ -1,9 +1,9 @@
 {
-  "version": 9,
-  "generatedAt": "2025-12-15T17:17:27.572604",
+  "version": 3,
+  "generatedAt": "2025-12-15T18:15:32.053985",
   "files": [
     {
-      "path": "exams/real/Constantine/2022/residanat_dentaire_2022_constantine.json.enc",
+      "path": "exams/Real/Constantine/2022/residanat_dentaire_2022_constantine.json.enc",
       "version": 1,
       "checksum": "12c227b0c695fbd0fd4554b6c6e076c538acedda9221d343a03ef758561f8622",
       "sizeBytes": 99248,
@@ -60,19 +60,21 @@
   ],
   "deletedItems": [],
   "metadata": {
+    "description": "EMDs Question Bank Manifest",
+    "generator": "Enhanced GUI Manifest Manager v2.0",
     "totalFiles": 5,
     "totalQuestions": 0,
     "totalExams": 0,
-    "lastScanStats": {
-      "newFiles": 0,
-      "updatedFiles": 0,
-      "unchangedFiles": 5
-    },
     "availableWilayas": [
       "Constantine"
     ],
     "availableYears": [
       2022
-    ]
+    ],
+    "lastScanStats": {
+      "newFiles": 5,
+      "updatedFiles": 0,
+      "unchangedFiles": 0
+    }
   }
 }
