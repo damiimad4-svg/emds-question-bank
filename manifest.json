@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "generatedAt": "2025-12-15T12:04:58.644755",
+  "files": [
+    {
+      "path": "exmas/real/residanat_dentaire_2022_constantine.json.enc",
+      "version": 1,
+      "sha": "65c56145941319f22d1c972e8bb3f73e",
+      "size": 99248,
+      "isEncrypted": true
+    },
+    {
+      "path": "images/real/q_001.jpg",
+      "version": 1,
+      "sha": "4754754a83f13ec567f74623522d01f7",
+      "size": 14477,
+      "isEncrypted": false
+    },
+    {
+      "path": "images/real/q_007.jpg",
+      "version": 1,
+      "sha": "9fb4af738b5da586cab71b5e26f6bb80",
+      "size": 188819,
+      "isEncrypted": false
+    },
+    {
+      "path": "images/real/q_012.jpg",
+      "version": 1,
+      "sha": "b3d14d0ee7702f6013e49d06434faf6f",
+      "size": 6006,
+      "isEncrypted": false
+    },
+    {
+      "path": "images/real/q_014.jpg",
+      "version": 1,
+      "sha": "999aa875babb66a9db042193831cd75e",
+      "size": 5317,
+      "isEncrypted": false
+    }
+  ],
+  "deletedItems": [],
+  "metadata": {}
+}
