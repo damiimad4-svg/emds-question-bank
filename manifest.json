@@ -1,43 +1,78 @@
 {
-  "version": 3,
-  "generatedAt": "2025-12-15T15:48:49.302495",
+  "version": 8,
+  "generatedAt": "2025-12-15T17:17:27.572604",
   "files": [
     {
-      "path": "exams/real/residanat_dentaire_2022_constantine.json.enc",
+      "path": "exmas/real/Constantine/2022/residanat_dentaire_2022_constantine.json.enc",
       "version": 1,
-      "sha": "65c56145941319f22d1c972e8bb3f73e",
-      "size": 99248,
-      "isEncrypted": true
+      "checksum": "12c227b0c695fbd0fd4554b6c6e076c538acedda9221d343a03ef758561f8622",
+      "sizeBytes": 99248,
+      "isEncrypted": true,
+      "questionCount": 0,
+      "examCount": 0,
+      "wilaya": "Constantine",
+      "year": 2022
     },
     {
-      "path": "images/real/q_001.jpg",
+      "path": "images/real/Constantine/2022/q_001.jpg",
       "version": 1,
-      "sha": "4754754a83f13ec567f74623522d01f7",
-      "size": 14477,
-      "isEncrypted": false
+      "checksum": "dffce1dff74f0cdb2ab9e8c1f5b2c7245e8e1f35206f95bdf95a2c4841b9dc8e",
+      "sizeBytes": 14477,
+      "isEncrypted": false,
+      "questionCount": 0,
+      "examCount": 0,
+      "wilaya": "Constantine",
+      "year": 2022
     },
     {
-      "path": "images/real/q_007.jpg",
+      "path": "images/real/Constantine/2022/q_007.jpg",
       "version": 1,
-      "sha": "9fb4af738b5da586cab71b5e26f6bb80",
-      "size": 188819,
-      "isEncrypted": false
+      "checksum": "77a7ab307ac76c5d59ca9cf3fc71c2b5ac239047c2d230ac3c1410b2d24d5a17",
+      "sizeBytes": 188819,
+      "isEncrypted": false,
+      "questionCount": 0,
+      "examCount": 0,
+      "wilaya": "Constantine",
+      "year": 2022
     },
     {
-      "path": "images/real/q_012.jpg",
+      "path": "images/real/Constantine/2022/q_012.jpg",
       "version": 1,
-      "sha": "b3d14d0ee7702f6013e49d06434faf6f",
-      "size": 6006,
-      "isEncrypted": false
+      "checksum": "21b942a66239d8aa90d91f624d276e65cb857df66ff75a77c0b7cb13e54e0d5a",
+      "sizeBytes": 6006,
+      "isEncrypted": false,
+      "questionCount": 0,
+      "examCount": 0,
+      "wilaya": "Constantine",
+      "year": 2022
     },
     {
-      "path": "images/real/q_014.jpg",
+      "path": "images/real/Constantine/2022/q_014.jpg",
       "version": 1,
-      "sha": "999aa875babb66a9db042193831cd75e",
-      "size": 5317,
-      "isEncrypted": false
+      "checksum": "05132564e8231049c69350b74c64ad739983a9c399a047297e50a700fa168732",
+      "sizeBytes": 5317,
+      "isEncrypted": false,
+      "questionCount": 0,
+      "examCount": 0,
+      "wilaya": "Constantine",
+      "year": 2022
     }
   ],
   "deletedItems": [],
-  "metadata": {}
+  "metadata": {
+    "totalFiles": 5,
+    "totalQuestions": 0,
+    "totalExams": 0,
+    "lastScanStats": {
+      "newFiles": 0,
+      "updatedFiles": 0,
+      "unchangedFiles": 5
+    },
+    "availableWilayas": [
+      "Constantine"
+    ],
+    "availableYears": [
+      2022
+    ]
+  }
 }
